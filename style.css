@@ -1,0 +1,12 @@
+body{
+    background-color: #2980b9;
+    position: relative;
+}
+
+
+.app-wrapper{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 50px 10px;
+}
